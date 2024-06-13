@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Count-MonteScripto
-- 👀 I’m interested in most things nerdy.
+- 👀 I’m interested in most things nerdy. (Think Star Wars, MtG, LotR, Star Trek)
 - 🌱 I’m currently learning Python and GitHub.
 - 💞️ I’m looking to collaborate on potential future projects.
 - 📫 How to reach me: montescripto@yahoo.com
